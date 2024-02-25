@@ -37,7 +37,12 @@ button{
     border-radius: .6rem;
     margin-top: 3.2rem;
     padding: .8rem 1.2rem;
+    transition: .2s;
 }
+
+    button:hover{
+        background-color: #722f1c;
+    }
 
 h1, h2{
     font-size: 2.8rem;
